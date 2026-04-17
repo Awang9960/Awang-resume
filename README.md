@@ -1,10 +1,23 @@
 # Amy Wang
-<p align="center">
-  <img src="IMG_6315.jpg" width="200"/>
-</p>
+
+<table>
+<tr>
+<td>
+
+# Amy Wang
+
 📍 Los Angeles, CA  
 📧 awang551@usc.edu  
 📞 805-409-7888  
+
+</td>
+<td>
+
+<img src="IMG_6315.jpg" width="180"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
