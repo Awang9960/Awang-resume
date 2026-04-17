@@ -1,8 +1,3 @@
-<!-- Forest Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470" width="100%"/>
-</p>
-
 <!-- Header -->
 <table>
 <tr>
