@@ -22,7 +22,7 @@
 
 ## 🌲 Resume
 <p align="center">
-<a href="https://raw.githubusercontent.com/Awang9960/Awang-resume/main/Amy_Wang_Resume.pdf">
+<a Amy W. Resume.docx-7.pdf">
   <img src="https://img.shields.io/badge/Download%20Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 </p>
