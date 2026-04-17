@@ -96,7 +96,7 @@ My work centers on **public policy, community engagement, and social impact**, w
 <p align="center">
 🌲 *Committed to public service, community impact, and meaningful change* 🌲
 </p>
-Thank you for your time,
+
 Zitong (Amy) Wang 
 USC BA (NGOs & Social Change) / MPA '28 
 awang551@usc.edu |  805-409-7888 
