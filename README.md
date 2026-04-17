@@ -1,5 +1,5 @@
 # Amy Wang
-![Amy Wang Headshot](Amy Wang Headshot) 
+![Amy Wang Headshot](Amy Wang Headshot.jpg) 
 📍 Los Angeles, CA  
 📧 awang551@usc.edu  
 📞 805-409-7888  
