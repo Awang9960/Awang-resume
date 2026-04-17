@@ -20,11 +20,12 @@
 
 ---
 
-## 🌲 Resume
+## 📄 Resume
+
 <p align="center">
-<a[ [[Amy W. Resume.docx-7.pdf](https://github.com/Awang9960/Awang-resume/blob/main/IMG_6315.jpg)](https://raw.githubusercontent.com/Awang9960/Awang-resume/main/Amy_Wang_Resume.pdf)](https://github.com/Awang9960/Awang-resume/blob/d603ea62b7b88aaf9c6970dbd304f86e40829586/Amy%20W.%20Resume.pdf)">
-  <img src="https://img.shields.io/badge/Download%20Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
+  <a href="./Amy_Wang_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
 </p>
 
 ---
